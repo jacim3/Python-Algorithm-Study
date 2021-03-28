@@ -1,36 +1,33 @@
 import sys, math
 from collections import deque
-# sys.stdin = open('input.txt','r')
+# sys.stdin = open('input.txt','rt')
 
-"""
-    BFS 는 레벨탐색 및 Queue를 사용한다.
-    보통의 list의 경우 append 및 pop() 을 사용하게 되는 경우, FILO 로서 stack 의 원리를 가짐
-    이를 해결하기 위하여 pop(0)을 사용하게 될 경우, queue 를 구현할 수 있으나, 작업시간이 오래 걸리게 된다.
-"""
-
+# 인터프리터 내에서 직접 실행했을 때만, if문 내의 코드를 실행해라
 if __name__ == "__main__":
-
-    s, e = map(int, input().split())
-    MAX = 10000
-    steps = [5, 1, -1]
-    dis = [0] * (MAX+1)
-    check = [0] * (MAX+1)
-    check[s] = 1
-    dis[s] = 0
     
-    dQ = []
-    dQ.append(s)
+    n = 10000
+    # 한번 이동한 지점을 다시 지나가지 않도록 방지 = 최단거리를 구해야 하므로
+    check = [0]*(n+1)
+    # BFS의 특징으로, Level 값을 저장
+    check2 = [0]*(n+1)
+    move = [5,-1,1]
+    s,e = map(int, input().split())
+    song = deque()
+    song.append(s)
+    check[s] = 1
 
-    while dQ:
-        now = dQ.pop(0)
-        if now == e:
+    while song:
+        start = song.popleft()
+
+        if start == e:
             break
-        for step in steps:
-            next = now + step
-            if 0<next<MAX:
+        for i in move:
+            next = start+i
+            if 0<next<=n:
                 if check[next] == 0:
-                    dQ.append(next)
                     check[next] = 1
-                    dis[next] = dis[now]+1
-    print(dis[e])
 
+                    song.append(next)
+                    check2[next] = check2[start]+1
+
+    print(check2[e])
