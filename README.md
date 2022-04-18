@@ -189,22 +189,6 @@
 
   </details>
   
-  
-  
-  <details>
-  <summary><a href="https://github.com/jacim3/PythonAlgorithm/blob/master/8.%20etc/Assignment1.py ">과제1</a> </summary>
-  
-  <img width="467" alt="image" src="https://user-images.githubusercontent.com/60813834/163799878-9ee7cbd0-2285-4350-854f-82522761d7fd.png">
-  </details>
-  
-  <details>
-  <summary><a href="https://github.com/jacim3/PythonAlgorithm/blob/master/8.%20etc/Assignment2.py ">과제2</a></summary>
-  
-  <img width="428" alt="image" src="https://user-images.githubusercontent.com/60813834/163800187-9f318e3b-9fcf-476d-be53-7681446ac060.png">
-  <img width="427" alt="image" src="https://user-images.githubusercontent.com/60813834/163800223-222fad91-f379-43e2-b1fc-e4ba573b8aa1.png">
-  </details>
-  
-
 ## 7. Dynamic Programming 
 
   <details>
@@ -224,4 +208,21 @@
   
 <img width="398" alt="image" src="https://user-images.githubusercontent.com/60813834/163802957-43645f0a-0b3a-4917-a887-0d5a9c0c0940.png">
   </details>
+  
+## 그 외
+
+  <details>
+  <summary><a href="https://github.com/jacim3/PythonAlgorithm/blob/master/8.%20etc/Assignment1.py ">과제1</a> </summary>
+  
+  <img width="467" alt="image" src="https://user-images.githubusercontent.com/60813834/163799878-9ee7cbd0-2285-4350-854f-82522761d7fd.png">
+  </details>
+  
+  <details>
+  <summary><a href="https://github.com/jacim3/PythonAlgorithm/blob/master/8.%20etc/Assignment2.py ">과제2</a></summary>
+  
+  <img width="428" alt="image" src="https://user-images.githubusercontent.com/60813834/163800187-9f318e3b-9fcf-476d-be53-7681446ac060.png">
+  <img width="427" alt="image" src="https://user-images.githubusercontent.com/60813834/163800223-222fad91-f379-43e2-b1fc-e4ba573b8aa1.png">
+  </details>
+
+
 
