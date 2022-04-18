@@ -9,7 +9,11 @@
 ## 3. 이분 탐색 
 
 ## 4. 자료구조 (스택, 큐, 해시, 힙) 
+  <details>
+  <summary><a href="https://github.com/jacim3/PythonAlgorithm/blob/master/4.%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%ED%95%B4%EC%8B%9C%2C%20%ED%9E%99/7.%20%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95%20%EC%84%A4%EA%B3%84/AA.py"> 7. 교육과정 설계 </a> </summary>
 
+<img width="509" alt="image" src="https://user-images.githubusercontent.com/60813834/163802432-a9a7271d-8041-45ee-9298-84d57229bfc3.png">
+  </details>
 ## 5. 완전 탐색 
 
 ## 6. DFS / BFS 
@@ -122,3 +126,22 @@
   
 
 ## 7. Dynamic Programming 
+
+  <details>
+  <summary><a href="https://github.com/jacim3/PythonAlgorithm/blob/master/7.%20DynamicProgramming/1%2C%202.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0/AA.py">1. 네트워크 선 자르기</a></summary>
+  
+<img width="520" alt="image" src="https://user-images.githubusercontent.com/60813834/163802883-568873d6-29b0-4039-b973-9e10d8d009c1.png">
+  </details>
+  
+  <details>
+  <summary><a href="https://github.com/jacim3/PythonAlgorithm/blob/master/7.%20DynamicProgramming/4.%20%EC%B5%9C%EB%8C%80%EB%B6%80%EB%B6%84%EC%A6%9D%EA%B0%80%EC%88%98%EC%97%B4/AA.py">3. 최대부분 증가수열</a></summary>
+  
+<img width="534" alt="image" src="https://user-images.githubusercontent.com/60813834/163802924-b2a036f1-aa11-48de-aebb-b3cc2f08b2da.png">
+  </details>
+  
+  <details>
+  <summary><a href="https://github.com/jacim3/PythonAlgorithm/tree/master/7.%20DynamicProgramming/5.%20%EC%B5%9C%EB%8C%80%20%EC%84%A0%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0">4. 최대 선 연결하기</a></summary>
+  
+<img width="398" alt="image" src="https://user-images.githubusercontent.com/60813834/163802957-43645f0a-0b3a-4917-a887-0d5a9c0c0940.png">
+  </details>
+
