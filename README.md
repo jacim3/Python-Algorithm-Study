@@ -14,14 +14,75 @@
 
 <img width="509" alt="image" src="https://user-images.githubusercontent.com/60813834/163802432-a9a7271d-8041-45ee-9298-84d57229bfc3.png">
   </details>
+  
 ## 5. 완전 탐색 
+
+  <details>
+  <summary><a href="https://github.com/jacim3/PythonAlgorithm/blob/master/5.%20%EC%99%84%EC%A0%84%20%ED%83%90%EC%83%89/1.%20%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98%EB%9E%80(%EC%9D%B4%EC%A7%84%EC%88%98%EC%B6%9C%EB%A0%A5)/AA.py"> 1. 이진수 출력 (Recursion) </a> </summary>
+
+<img width="520" alt="image" src="https://user-images.githubusercontent.com/60813834/163803755-00a8f9be-8c4f-4a60-a3d2-902a1b3b2b3a.png">
+  </details>
+  
+  <details>
+  <summary><a href="https://github.com/jacim3/PythonAlgorithm/blob/master/5.%20%EC%99%84%EC%A0%84%20%ED%83%90%EC%83%89/3.%20%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0/AA.py">3. 부분집합 구하기 </a> </summary>
+
+![image](https://user-images.githubusercontent.com/60813834/163803782-a7f2a719-a2c1-4c7d-aaa1-ba68c240f57a.png)
+  </details>
+  
+  <details>
+  <summary><a href="https://github.com/jacim3/PythonAlgorithm/blob/master/5.%20%EC%99%84%EC%A0%84%20%ED%83%90%EC%83%89/4.%20%ED%95%A9%EC%9D%B4%20%EA%B0%99%EC%9D%80%20%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9/AA.py"> 4. 합이 같은 부분집합 </a> </summary>
+
+<img width="528" alt="image" src="https://user-images.githubusercontent.com/60813834/163803809-2016b7d6-7044-463d-9f6e-46b05ec99b36.png">
+  </details>
+  
+  <details>
+  <summary><a href="https://github.com/jacim3/PythonAlgorithm/blob/master/5.%20%EC%99%84%EC%A0%84%20%ED%83%90%EC%83%89/5.%20%EB%B0%94%EB%91%91%EC%9D%B4%20%EC%8A%B9%EC%B0%A8/AA.py"> 5. 바둑이 승차 </a> </summary>
+
+<img width="502" alt="image" src="https://user-images.githubusercontent.com/60813834/163803832-cb91e117-a682-45c5-ac67-896f39a6476b.png">
+  </details>
+  
+  <details>
+  <summary><a href="https://github.com/jacim3/PythonAlgorithm/blob/master/5.%20%EC%99%84%EC%A0%84%20%ED%83%90%EC%83%89/6.%20%EC%A4%91%EB%B3%B5%EC%88%9C%EC%97%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0/AA.py"> 6. 중복순열 구하기 </a> </summary>
+
+<img width="512" alt="image" src="https://user-images.githubusercontent.com/60813834/163803851-f477e28c-601b-4c6b-a290-ecea62035986.png">
+  </details>
+  
+  <details>
+  <summary><a href="https://github.com/jacim3/PythonAlgorithm/blob/master/5.%20%EC%99%84%EC%A0%84%20%ED%83%90%EC%83%89/7.%20%EB%8F%99%EC%A0%84%EA%B5%90%ED%99%98/AA.py"> 7. 동전교환 </a> </summary>
+
+<img width="521" alt="image" src="https://user-images.githubusercontent.com/60813834/163803875-0a587d76-3a95-45ad-afb6-357d5d55c147.png">
+  </details>
+  
+  <details>
+  <summary><a href="https://github.com/jacim3/PythonAlgorithm/blob/master/5.%20%EC%99%84%EC%A0%84%20%ED%83%90%EC%83%89/8.%20%EC%88%9C%EC%97%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0/AA.py"> 8. 순열 구하기 </a> </summary>
+
+<img width="509" alt="image" src="https://user-images.githubusercontent.com/60813834/163803897-2389d90b-3fb6-4d65-921f-bc4d89a37c81.png">
+  </details>
+  
+  <details>
+  <summary><a href="https://github.com/jacim3/PythonAlgorithm/blob/master/5.%20%EC%99%84%EC%A0%84%20%ED%83%90%EC%83%89/9.%20%EC%88%98%EC%97%B4%20%EC%B6%94%EC%B8%A1%ED%95%98%EA%B8%B0/AA.py"> 9. 수열 추측하기 </a> </summary>
+
+<img width="524" alt="image" src="https://user-images.githubusercontent.com/60813834/163803913-3d1f0ab1-8211-44ad-8e99-61118c8b7a41.png">
+  </details>
+  
+  <details>
+  <summary><a href="https://github.com/jacim3/PythonAlgorithm/blob/master/5.%20%EC%99%84%EC%A0%84%20%ED%83%90%EC%83%89/10.%20%EC%A1%B0%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0/AA.py"> 10. 조합 구하기 </a> </summary>
+
+<img width="513" alt="image" src="https://user-images.githubusercontent.com/60813834/163803926-a609cc04-171b-4494-b46b-60afda920780.png">
+  </details>
+  
+  <details>
+  <summary><a href="https://github.com/jacim3/PythonAlgorithm/blob/master/5.%20%EC%99%84%EC%A0%84%20%ED%83%90%EC%83%89/11.%20%EC%88%98%EB%93%A4%EC%9D%98%20%EC%A1%B0%ED%95%A9/AA.py"> 11. 수들의 조합 </a> </summary>
+
+<img width="515" alt="image" src="https://user-images.githubusercontent.com/60813834/163803943-db6c7763-20fe-42be-8c7c-02692788c1bf.png">
+  </details>
 
 ## 6. DFS / BFS 
 
   <details>
-  <summary><a href="https://github.com/jacim3/PythonAlgorithm/blob/master/6.%20DFS%26BFS/1.%20%EC%B5%9C%EB%8C%80%EC%A0%90%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0/AA.py"> 1. 최대점수 구하기 </a> </summary>
+  <summary><a href="https://github.com/jacim3/PythonAlgorithm/blob/master/5.%20%EC%99%84%EC%A0%84%20%ED%83%90%EC%83%89/15.%20%EA%B2%BD%EB%A1%9C%ED%83%90%EC%83%89/AA.py"> 13. 경로 탐색 </a> </summary>
 
-  <img width="494" alt="image" src="https://user-images.githubusercontent.com/60813834/163799649-4dbdc944-91b6-4ea0-8495-e5c115fcc3bf.png">
+<img width="509" alt="image" src="https://user-images.githubusercontent.com/60813834/163804004-85247626-cae9-4c62-99b1-1b1903773f19.png">
   </details>
   
   
