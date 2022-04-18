@@ -3,10 +3,27 @@
 
 ## 1. 일반 
 
-
 ## 2. 탐색 & 시뮬레이션 
 
-## 3. 이분 탐색 
+## 3. 결정 & 그리디 알고리즘 
+  <details>
+  <summary><a href="https://github.com/jacim3/PythonAlgorithm/tree/master/3.%20%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89/1.%20%EC%9D%B4%EB%B6%84%EA%B2%80%EC%83%89"> 1. 이분 검색 </a> </summary>
+
+<img width="503" alt="image" src="https://user-images.githubusercontent.com/60813834/163804425-99678f61-5e3f-4137-86d7-5a437c7e66d9.png">
+  </details>
+  
+  <details>
+  <summary><a href="https://github.com/jacim3/PythonAlgorithm/blob/master/3.%20%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89/2.%20%EB%9E%9C%EC%84%A0%EC%9E%90%EB%A5%B4%EA%B8%B0/AA.py"> 2. 랜선 자르기 </a> </summary>
+
+<img width="518" alt="image" src="https://user-images.githubusercontent.com/60813834/163804465-793e5829-4b4c-4b8d-b4a1-8e4c79f747ab.png">
+  </details>
+  
+  <details>
+  <summary><a href="https://github.com/jacim3/PythonAlgorithm/blob/master/3.%20%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89/5.%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95/AA.py"> 5. 회의실 배정 </a> </summary>
+
+<img width="519" alt="image" src="https://user-images.githubusercontent.com/60813834/163804514-b06a04ef-1806-49e2-a4b7-129e7b2da551.png">
+  </details>
+
 
 ## 4. 자료구조 (스택, 큐, 해시, 힙) 
   <details>
