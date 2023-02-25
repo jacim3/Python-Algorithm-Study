@@ -1,6 +1,5 @@
 ## 파이썬 알고리즘 문제풀이 입문 (코딩테스트 대비)
-- 풀이 완료한 내용과 소스코드를 지속적으로 업로드 합니다.
-- 다음 강의를 토대로 학습하고 있습니다. <a href="https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%95%EC%A2%8C/dashboard
+- 다음 강의를 토대로 학습중이며, 소스코드는 계속하여 업데이트 중 입니다. <a href="https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%95%EC%A2%8C/dashboard
 ">파이썬 알고리즘 문제풀이 입문 </a>
 ## 1. 일반 
 
